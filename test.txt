@@ -3,3 +3,6 @@ test commit
 another test
 testing credentail storage
 Hello Git Practice!
+=======
+added a line from Git bash practice
+
